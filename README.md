@@ -1,9 +1,13 @@
 # PUDDSKETCH
 
 
-A C++ implementation of a parallel version of the UDDSketch algorithm [\[1\]][2] for quantile estimation 
+A C++ implementation of a parallel version of the UDDSketch algorithm [\[1\]][2] for quantile estimation.
 
-The code also includes parallel version of both the KLL and REQ quantile algorithms, based on the Apache DataSketches library.
+We also provide:
+
+- a parallel version of DDSketch (see the ParallelDDSketch directory);
+- parallel version of both the KLL and REQ quantile algorithms, based on the Apache DataSketches library.
+
 
 # Build
 Tested on Linux and on MacOS; it shoukld work on other UNIX-like OSes.
