@@ -1,7 +1,7 @@
 # PUDDSKETCH
 
 
-A C++ implementation of a parallel version of the UDDSketch algorithm [\[1\]][1] [\[2\]][2] for quantile estimation.
+A C++ implementation of a parallel version of the UDDSketch algorithm [\[1\]][1]  for quantile estimation.
 
 We also provide:
 
