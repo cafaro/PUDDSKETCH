@@ -12,6 +12,10 @@ We also provide:
 # Build
 Tested on Linux and on MacOS; it shoukld work on other UNIX-like OSes.
 
+If you use this software, please cite the following paper:
+
+M. Cafaro, C. Melle, I. Epicoco, M. Pulimeno. Data stream fusion for accurate quantile tracking and analysis. Information Fusion, Elsevier, Volume 89, 2023, Pages 155-165, ISSN 1566-2535, DOI: 10.1016/j.inffus.2022.08.005
+
 
 
 # References
