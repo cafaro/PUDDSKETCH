@@ -17,6 +17,6 @@ M. Cafaro, C. Melle, I. Epicoco, M. Pulimeno. Data stream fusion for accurate qu
 
 # References
 
-[1] **I. Epicoco, C. Melle, M. Cafaro, M. Pulimeno and G. Morleo**. UDDSketch: Accurate Tracking of Quantiles in Data Streams. IEEE Access, vol. 8, pp. 147604-147617, 2020, ISSN: 2169-3536, DOI: 10.1109/ACCESS.2020.3015599
+[1]: **I. Epicoco, C. Melle, M. Cafaro, M. Pulimeno and G. Morleo**. UDDSketch: Accurate Tracking of Quantiles in Data Streams. IEEE Access, vol. 8, pp. 147604-147617, 2020, ISSN: 2169-3536, DOI: 10.1109/ACCESS.2020.3015599
 
-[2] <https://github.com/cafaro/UDDSketch> "UDDSketch"
+[2]: <https://github.com/cafaro/UDDSketch> "UDDSketch"
